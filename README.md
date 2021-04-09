@@ -1,0 +1,1 @@
+# report-ruby-mysql2-mariadb10.5
