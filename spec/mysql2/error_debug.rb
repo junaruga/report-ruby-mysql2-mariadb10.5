@@ -1,4 +1,5 @@
-# ruby -I lib spec/mysql2/error_debug.rb
+# ruby spec/mysql2/error_debug.rb
+$LOAD_PATH << 'lib'
 require 'mysql2'
 require 'yaml'
 
